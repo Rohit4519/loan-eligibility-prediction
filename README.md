@@ -20,4 +20,4 @@ This is a simple machine learning web application built with **Flask** that pred
 
   ## 📸 Screenshots
 
-![Loan Eligibility App Screenshot]((https://github.com/Rohit4519/loan-eligibility-prediction/blob/55b352b105b8ffba080324527acc95bc615fe7e1/Screenshot%202024-04-19%20163812.png))
+![Loan Eligibility App Screenshot](https://github.com/Rohit4519/loan-eligibility-prediction/blob/55b352b105b8ffba080324527acc95bc615fe7e1/Screenshot%202024-04-19%20163812.png)
